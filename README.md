@@ -1,16 +1,16 @@
-## Hi there 👋
+# Logan Klein
 
-<!--
-**Lkleindesigns/Lkleindesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack JavaScript developer based in Metairie, LA.
 
-Here are some ideas to get you started:
+Most of my last five years has been at E-Rigging building production
+e-commerce and B2B software, with the bulk of that work in a private
+company repo. Highlights include a Shopify storefront serving 3,000+
+products and 300,000+ orders, a custom Node.js integration that 
+replaced a vendor ERP-sync product, and React/TypeScript internal 
+tools for a technical user base.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My public repos here are older or experimental work. I'm currently 
+building with LLM integrations, AI agents, and structured outputs.
+
+**Stack:** TypeScript, React, Node.js, MongoDB, Python, Azure
+**Reach me:** lkleindesigns@gmail.com · [LinkedIn](https://www.linkedin.com/in/loganklein/)
